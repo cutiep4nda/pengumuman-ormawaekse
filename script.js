@@ -228,7 +228,7 @@ const dataKelulusan = [
 {nim:'C5401241808', nama:'Tristan Alano Putra Wisnu', status:'Lolos', pilihan:'Departemen Pemuda Olahraga'},
 {nim:'F4401241017', nama:'Chayara Elya Azhar', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
 {nim:'C2401241105', nama:'Cherina Qibtiyah Ashzahrah', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
-{nim:'A1401241005', nama:' Robbani Alfaiz', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
+{nim:'A1401241005', nama:'Daffa Robbani Alfaiz', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
 {nim:'A2401241178', nama:'Dhandi Rafa Satvika Hartanto ', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
 {nim:'E2401241007', nama:'Diskha Azqyaraya Maulida', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
 {nim:'H5401241010', nama:'Savina Rahma Alia', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
