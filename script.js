@@ -243,7 +243,7 @@ const dataKelulusan = [
 {nim:'A0401241033', nama:'Zacky Mubarok', status:'Tidak Lolos', pilihan:'Departemen Pemuda Olahraga'},
 {nim:'I2401241002', nama:'Aginda Malika Danish Naira', status:'Lolos', pilihan:'Biro Internal'},
 {nim:'H3401241003', nama:'Andhika Arya Ramdhani', status:'Lolos', pilihan:'Biro Internal'},
-{nim:'M0402241081', nama:' Naufal Fadhlurahman', status:'Lolos', pilihan:'Biro Internal'},
+{nim:'M0402241081', nama:'Daffa Naufal Fadhlurahman', status:'Lolos', pilihan:'Biro Internal'},
 {nim:'I2401241055', nama:'Devira Yosi Yatsika', status:'Lolos', pilihan:'Biro Internal'},
 {nim:'I3401241005', nama:'Dimaz Maulana Arby', status:'Lolos', pilihan:'Biro Internal'},
 {nim:'F2401241034', nama:'Fauziyyah Az Zahrah', status:'Lolos', pilihan:'Biro Internal'},
