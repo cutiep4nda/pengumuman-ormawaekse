@@ -14,7 +14,7 @@ const dataKelulusan = [
 {nim:'K1401241176', nama:'Muhammad Sulthan Arkan Mustafa', status:'Lolos', pilihan:'Departemen Ekonomi Kreatif'},
 {nim:'H1401241076', nama:'Mellisa Ayu Prawtaningrum', status:'Lolos', pilihan:'Departemen Ekonomi Kreatif'},
 {nim:'H2401241129', nama:'Shabrina Al Alauna Kiandra', status:'Lolos', pilihan:'Departemen Ekonomi Kreatif'},
-{nim:'K1401241022 ', nama:'Nur Maharani Al Karim ', status:'Lolos', pilihan:'Departemen Ekonomi Kreatif'},
+{nim:'K1401241022 ', nama:'Nur Maharani Al Karim', status:'Lolos', pilihan:'Departemen Ekonomi Kreatif'},
 {nim:'K1401241217', nama:'Desy Boban', status:'Tidak Lolos', pilihan:'Departemen Ekonomi Kreatif'},
 {nim:'K1401241026', nama:'Athira Gibran', status:'Tidak Lolos', pilihan:'Departemen Ekonomi Kreatif'},
 {nim:'H3401241065', nama:'Nailasari Nurhasanah', status:'Tidak Lolos', pilihan:'Departemen Ekonomi Kreatif'},
