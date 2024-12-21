@@ -69,9 +69,6 @@ nav{
 .nav-tidak-lulus {
     background: linear-gradient(90deg, #a71616, #b24949); /* Merah */
 }
-.navbar{
-    text-align: center;
-}
 
 /* Media Query untuk Tablet (ukuran layar maks 768px) */
 @media (max-width: 768px) {
